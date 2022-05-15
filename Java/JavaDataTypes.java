@@ -42,6 +42,3 @@ class JavaDataTypes{
         sc.close();
     }
 }
-
-
-
